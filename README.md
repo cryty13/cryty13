@@ -17,5 +17,6 @@
 <p align="left">
   💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
 </p>
+
 [![Linkedin: WillianBuqui](https://img.shields.io/badge/-WillianBuqui-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willian-buqui-146409a4)](https://www.linkedin.com/in/willian-buqui-146409a4)
 [![willianbuqui.dev](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://app.willianbuqui.dev/)](https://app.willianbuqui.dev/)

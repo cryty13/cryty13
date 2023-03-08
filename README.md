@@ -9,7 +9,14 @@
 </p>
 
 
-## **Linguagens e Ferramentas:** 
+## **Linguagens:** 
+
+<p>GoLang</p>
+<p>React</p>
+<p>NodeJs</p>
+<p>Tailwind</p>
+
+
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 

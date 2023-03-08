@@ -34,3 +34,6 @@
   <a href="#" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>  
+
+[![Linkedin: WillianBuqui](https://img.shields.io/badge/-WillianBuqui-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willian-buqui-146409a4)](https://www.linkedin.com/in/willian-buqui-146409a4)
+[![willianbuqui.dev](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://app.willianbuqui.dev/)](https://app.willianbuqui.dev/)

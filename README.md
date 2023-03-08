@@ -11,10 +11,10 @@
 
 ## **Linguagens:** 
 
-<p>GoLang</p>
-<p>React</p>
-<p>NodeJs</p>
-<p>Tailwind</p>
+<p>* GoLang</p>
+<p>* React</p>
+<p>* NodeJs</p>
+<p>* Tailwind</p>
 
 
 

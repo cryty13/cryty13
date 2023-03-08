@@ -3,9 +3,13 @@
 
 <h2>Sobre mim</h2>
 
-<p>aa</p>
+<p>
+  Me chamo Willian tenho 28 anos e trabalho com desenvolvimento de sistemas 
+  +7 anos, atualmente estou trabalhando com React e Golang.
+</p>
 
 
+## **Linguagens e Ferramentas:** 
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 

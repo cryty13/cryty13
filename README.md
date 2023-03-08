@@ -4,18 +4,9 @@
 <h2>Sobre mim</h2>
 
 <p>
-  Me chamo Willian tenho 28 anos e trabalho com desenvolvimento de sistemas 
-  +7 anos, atualmente estou trabalhando com React e Golang.
+  Me chamo Willian tenho 28 anos e trabalho como Desenvolvedor Fullstack e desenvolvo sistemas a 
+  +7 anos, atualmente estou trabalhando com React e Golang mas ja trabalhei com .net e angular.
 </p>
-
-
-## **Linguagens:** 
-
-<p>* GoLang</p>
-<p>* React</p>
-<p>* NodeJs</p>
-<p>* Tailwind</p>
-
 
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
